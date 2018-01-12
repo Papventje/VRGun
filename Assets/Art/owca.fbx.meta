@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: be2162544829ca54ca65ff7e40feaeda
+timeCreated: 1512920903
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Armature.002
+    100006: Armature.003
+    100008: Bone
+    100010: Bone 1
+    100012: Bone 2
+    100014: Bone 3
+    100016: Bone.001
+    100018: Bone.001 1
+    100020: Bone.001_end
+    100022: Bone.001_end 1
+    100024: Camera
+    100026: Cylinder
+    100028: Cylinder.000
+    100030: Cylinder.001
+    100032: Cylinder.002
+    100034: Cylinder.003
+    100036: Cylinder.004
+    100038: Cylinder.005
+    100040: Cylinder.006
+    100042: Cylinder.007
+    100044: Cylinder.008
+    100046: head
+    100048: head 1
+    100050: head 2
+    100052: head 3
+    100054: klatka
+    100056: klatka 1
+    100058: klatka 2
+    100060: klatka 3
+    100062: klatka.001
+    100064: klatka.001 1
+    100066: Lamp
+    100068: noga.l
+    100070: noga.l 1
+    100072: noga.l 2
+    100074: noga.l 3
+    100076: noga.l.001
+    100078: noga.l.001 1
+    100080: noga.l.001 2
+    100082: noga.l.001 3
+    100084: noga.l.001_end
+    100086: noga.l.001_end 1
+    100088: noga.l.001_end 2
+    100090: noga.l.001_end 3
+    100092: noga.r
+    100094: noga.r 1
+    100096: noga.r 2
+    100098: noga.r 3
+    100100: noga.r.001
+    100102: noga.r.001 1
+    100104: noga.r.001 2
+    100106: noga.r.001 3
+    100108: noga.r.001_end
+    100110: noga.r.001_end 1
+    100112: noga.r.001_end 2
+    100114: noga.r.001_end 3
+    100116: nogaP.l
+    100118: nogaP.l 1
+    100120: nogaP.l 2
+    100122: nogaP.l 3
+    100124: nogaP.l.001
+    100126: nogaP.l.001 1
+    100128: nogaP.l.001 2
+    100130: nogaP.l.001 3
+    100132: nogaP.l.001_end
+    100134: nogaP.l.001_end 1
+    100136: nogaP.l.001_end 2
+    100138: nogaP.l.001_end 3
+    100140: nogaP.r
+    100142: nogaP.r 1
+    100144: nogaP.r 2
+    100146: nogaP.r 3
+    100148: nogaP.r.001
+    100150: nogaP.r.001 1
+    100152: nogaP.r.001 2
+    100154: nogaP.r.001 3
+    100156: nogaP.r.001_end
+    100158: nogaP.r.001_end 1
+    100160: nogaP.r.001_end 2
+    100162: nogaP.r.001_end 3
+    100164: OGON
+    100166: OGON 1
+    100168: OGON_end
+    100170: OGON_end 1
+    100172: //RootNode
+    100174: Plane
+    100176: Sphere
+    100178: Sphere.001
+    100180: Sphere.002
+    100182: SZYJA
+    100184: SZYJA 1
+    100186: ucho.l
+    100188: ucho.l 1
+    100190: ucho.l 2
+    100192: ucho.l 3
+    100194: ucho.l_end
+    100196: ucho.l_end 1
+    100198: ucho.l_end 2
+    100200: ucho.l_end 3
+    100202: ucho.r
+    100204: ucho.r 1
+    100206: ucho.r 2
+    100208: ucho.r 3
+    100210: ucho.r_end
+    100212: ucho.r_end 1
+    100214: ucho.r_end 2
+    100216: ucho.r_end 3
+    400000: Armature
+    400002: Armature.001
+    400004: Armature.002
+    400006: Armature.003
+    400008: Bone
+    400010: Bone 1
+    400012: Bone 2
+    400014: Bone 3
+    400016: Bone.001
+    400018: Bone.001 1
+    400020: Bone.001_end
+    400022: Bone.001_end 1
+    400024: Camera
+    400026: Cylinder
+    400028: Cylinder.000
+    400030: Cylinder.001
+    400032: Cylinder.002
+    400034: Cylinder.003
+    400036: Cylinder.004
+    400038: Cylinder.005
+    400040: Cylinder.006
+    400042: Cylinder.007
+    400044: Cylinder.008
+    400046: head
+    400048: head 1
+    400050: head 2
+    400052: head 3
+    400054: klatka
+    400056: klatka 1
+    400058: klatka 2
+    400060: klatka 3
+    400062: klatka.001
+    400064: klatka.001 1
+    400066: Lamp
+    400068: noga.l
+    400070: noga.l 1
+    400072: noga.l 2
+    400074: noga.l 3
+    400076: noga.l.001
+    400078: noga.l.001 1
+    400080: noga.l.001 2
+    400082: noga.l.001 3
+    400084: noga.l.001_end
+    400086: noga.l.001_end 1
+    400088: noga.l.001_end 2
+    400090: noga.l.001_end 3
+    400092: noga.r
+    400094: noga.r 1
+    400096: noga.r 2
+    400098: noga.r 3
+    400100: noga.r.001
+    400102: noga.r.001 1
+    400104: noga.r.001 2
+    400106: noga.r.001 3
+    400108: noga.r.001_end
+    400110: noga.r.001_end 1
+    400112: noga.r.001_end 2
+    400114: noga.r.001_end 3
+    400116: nogaP.l
+    400118: nogaP.l 1
+    400120: nogaP.l 2
+    400122: nogaP.l 3
+    400124: nogaP.l.001
+    400126: nogaP.l.001 1
+    400128: nogaP.l.001 2
+    400130: nogaP.l.001 3
+    400132: nogaP.l.001_end
+    400134: nogaP.l.001_end 1
+    400136: nogaP.l.001_end 2
+    400138: nogaP.l.001_end 3
+    400140: nogaP.r
+    400142: nogaP.r 1
+    400144: nogaP.r 2
+    400146: nogaP.r 3
+    400148: nogaP.r.001
+    400150: nogaP.r.001 1
+    400152: nogaP.r.001 2
+    400154: nogaP.r.001 3
+    400156: nogaP.r.001_end
+    400158: nogaP.r.001_end 1
+    400160: nogaP.r.001_end 2
+    400162: nogaP.r.001_end 3
+    400164: OGON
+    400166: OGON 1
+    400168: OGON_end
+    400170: OGON_end 1
+    400172: //RootNode
+    400174: Plane
+    400176: Sphere
+    400178: Sphere.001
+    400180: Sphere.002
+    400182: SZYJA
+    400184: SZYJA 1
+    400186: ucho.l
+    400188: ucho.l 1
+    400190: ucho.l 2
+    400192: ucho.l 3
+    400194: ucho.l_end
+    400196: ucho.l_end 1
+    400198: ucho.l_end 2
+    400200: ucho.l_end 3
+    400202: ucho.r
+    400204: ucho.r 1
+    400206: ucho.r 2
+    400208: ucho.r 3
+    400210: ucho.r_end
+    400212: ucho.r_end 1
+    400214: ucho.r_end 2
+    400216: ucho.r_end 3
+    2000000: Camera
+    2300000: Cylinder
+    2300002: Cylinder.000
+    2300004: Cylinder.001
+    2300006: Cylinder.002
+    2300008: Cylinder.003
+    2300010: Cylinder.004
+    2300012: Cylinder.005
+    2300014: Plane
+    2300016: Sphere
+    2300018: Sphere.001
+    2300020: Sphere.002
+    3300000: Cylinder
+    3300002: Cylinder.000
+    3300004: Cylinder.001
+    3300006: Cylinder.002
+    3300008: Cylinder.003
+    3300010: Cylinder.004
+    3300012: Cylinder.005
+    3300014: Plane
+    3300016: Sphere
+    3300018: Sphere.001
+    3300020: Sphere.002
+    4300000: Cylinder.008
+    4300002: Cylinder.007
+    4300004: Cylinder.006
+    4300006: Cylinder.005
+    4300008: Plane
+    4300010: Cylinder.004
+    4300012: Cylinder.003
+    4300014: Cylinder.002
+    4300016: Sphere.002
+    4300018: Sphere.001
+    4300020: Sphere
+    4300022: Cylinder
+    4300024: Cylinder.000
+    4300026: Cylinder.001
+    7400000: Armature.003|Armature.002Action.001
+    7400002: Armature.003|Armature.002Action.003
+    7400004: Armature.002|Armature.002Action.001
+    7400006: Armature.002|Armature.002Action.003
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Cylinder.006
+    13700002: Cylinder.007
+    13700004: Cylinder.008
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
